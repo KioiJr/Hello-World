@@ -1,2 +1,5 @@
 # Hello-World
-Greatness
+public static void main [Strings args]
+{
+System.println.out("Hello World");
+}
